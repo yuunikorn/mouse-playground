@@ -4,7 +4,7 @@ import numpy
 import string
 import random
 
-size = 8
+size = 9
 a = numpy.zeros([size, size])
 
 if size%2 == 0:
