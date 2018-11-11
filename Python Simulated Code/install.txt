@@ -1,0 +1,7 @@
+Numpy
+
+Matplotlib
+https://matplotlib.org/users/installing.html
+python -mpip install -U pip
+python -mpip install -U matplotlib
+xcode-select --install
