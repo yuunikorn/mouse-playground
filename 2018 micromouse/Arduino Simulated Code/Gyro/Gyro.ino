@@ -25,7 +25,7 @@ void setup() {
   Serial.begin(9600);
 
   // initialize gyro; warn if not detected
-  if (!gyro.begin(gyro.L3DS20_RANGE_250DPS))
+  if (!gyro.begin(gyro.L3DS20_RANGE_500DPS))
   {
     Serial.println("Unable to initialize L3GD20H");
   }
@@ -41,7 +41,6 @@ void loop() {
   Serial.print(" Z: "); Serial.println((int)gyro.data.z); Serial.print(" ");
   
   // delay between data points for stability
-  delay(1000);
+  delay(100);
   
 }
-
