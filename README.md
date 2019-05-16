@@ -3,8 +3,8 @@ This is where i tinker with codes and things
 
 ### micromousev3 
 is unfactored
-![GitHub Logo](v3.png)
+![micromousev3](v3.JPG)
 
 ### micromousev4 
 contains refactoring in progress
-![GitHub Logo](v4.png)
+![micromousev4](v4.JPG)
