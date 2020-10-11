@@ -15,8 +15,8 @@ is unfactored
 
 ### micromousev2.5
 Presentation in the Princeton Robotics Competition
-![slide1](2019 micromouse/micromouseV3/IMG_2579.jpg)
-![slide2]("2019 micromouse"/micromouseV3/IMG_2580.jpg)
-![slide3]("2019 micromouse"/micromouseV3/IMG_2581.jpg)
-![slide4]("2019 micromouse"/micromouseV3/IMG_2582.jpg)
-![slide5]("2019 micromouse"/micromouseV3/IMG_2583.jpg)
+![slide1](p1.jpg)
+![slide2](p2.jpg)
+![slide3](p3.jpg)
+![slide4](p4.jpg)
+![slide5](p5.jpg)
