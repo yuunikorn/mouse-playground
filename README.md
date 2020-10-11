@@ -15,6 +15,6 @@ is unfactored
 
 ### micromousev2.5
 Presentation in the Princeton Robotics Competition
-[Video](https://docs.google.com/presentation/d/e/2PACX-1vRmKZZ2PW_-o9xLDN1NAsdW3hXzG4MQ08VfPEJ-5xF3u4-M8VZdmCVfXCXEKklHrAhLLdyRqovCXkUB/embed?start=false&loop=true&delayms=5000)
+![Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRmKZZ2PW_-o9xLDN1NAsdW3hXzG4MQ08VfPEJ-5xF3u4-M8VZdmCVfXCXEKklHrAhLLdyRqovCXkUB/embed?start=false&loop=true&delayms=5000)
 
 
